@@ -1,5 +1,5 @@
 # 💫 About Me:
-Front-End et LUA
+Learning...
 
 
 # 💻 Tech Stack:
