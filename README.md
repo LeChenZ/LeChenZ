@@ -1,13 +1,39 @@
-# 💫 About Me:
-Learning...
-
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LeChenZ&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=LeChenZ&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeChenZ&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h1 align="center">Salut 👋, moi c'est LeChenZ</h1>
+<p align="center">Un passionné qui aime bien le code depuis 2-3 ans.</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=LeChenZ&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 🧠 À propos de moi
+- 🎯 Je code pour le fun depuis quelques années  
+- 💻 J'aime créer des choses simples, efficaces et stylées  
+- 🧪 Je touche à un peu de tout, mais surtout le web
+
+---
+
+### 🛠️ Langages et outils
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+</p>
+
+---
+
+### 📊 Stats GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeChenZ&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeChenZ&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeChenZ&layout=compact&theme=radical" alt="Langages les plus utilisés" />
+</p>
+
+---
+
+### 🎯 Mon style de dev
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,lua" />
+</p>
