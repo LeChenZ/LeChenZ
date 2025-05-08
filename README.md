@@ -6,7 +6,7 @@
 ### 🧠 À propos de moi
 - 🎯 Je code pour le fun depuis quelques années  
 - 💻 J'aime créer des choses simples, efficaces et stylées  
-- 🧪 Je touche à un peu de tout, mais surtout le web
+- 🧪 Je touche à un peu de tout, j'aime découvrir des choses
 
 ---
 
